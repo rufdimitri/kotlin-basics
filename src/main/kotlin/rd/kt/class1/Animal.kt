@@ -1,6 +1,6 @@
 package rd.kt.class1
 
 class Animal (
-    name: String
+    name: String //constructor parameters here
 ) {
 }
